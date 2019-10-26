@@ -33,7 +33,6 @@ class ProjectType(Enum):
 
 def main():
     glotter_main()
-
-
+#add function
 if __name__ == '__main__':
     main()
